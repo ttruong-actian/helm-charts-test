@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  clusterSecertStore:
+  - apiVersion: v2
+    appVersion: v0.24.2
+    created: "2022-06-10T14:31:37.523123891Z"
+    description: Helm chart to deploy clusterSecertStore in a Kubernetes cluster
+    digest: 461c874a3567e25bc07193a28ba754456224c1a0284ac1b5bc40aa393a54f69d
+    name: clusterSecertStore
+    type: application
+    urls:
+    - https://github.com/ttruong-actian/helm-charts-test/releases/download/clusterSecertStore-0.1.2/clusterSecertStore-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-06-10T14:31:37.523127291Z"
